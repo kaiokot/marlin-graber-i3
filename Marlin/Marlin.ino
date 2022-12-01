@@ -1,5 +1,5 @@
 /**
- * Marlin Tec3D Firmware
+ * Marlin KOT Firmware
  * Copyright (C) 2016 MarlinFirmware [https://github.com/MarlinFirmware/Marlin]
  *
  * Based on Sprinter and grbl.
